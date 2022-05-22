@@ -1,0 +1,29 @@
+<!--pages/nr/nr.wxml-->
+<view class="top">
+<image src="/pages/img/tx.jpg" class="tx"></image>
+<text class="username">林念风-</text>
+<text class="vip">VIP</text>
+<text class="qianming">这个人很懒,什么都没留下</text>
+<view class="sj"></view>
+</view>
+<view class="liulan">
+<image src="/pages/img/nav2.png" class="t1"></image>
+<text class="w1">观看历史</text>
+<view class="xsj"></view>
+</view>
+<view class="liulan">
+<image src="/pages/img/4.png" class="t1"></image>
+<text class="w1">充值入口
+</text>
+<view class="xsj"></view>
+</view>
+<view class="liulan">
+<image src="/pages/img/dh.JPG" class="t1"></image>
+<text class="w1">联系我们</text>
+<view class="xsj"></view>
+</view>
+<view class="liulan">
+<image src="/pages/img/cl.png" class="t1"></image>
+<text class="w1">设置</text>
+<view class="xsj"></view>
+</view>

@@ -1,0 +1,55 @@
+/* pages/gg/gg.wxss */
+.top{
+  height: 30px;
+  background-color: gray;
+}
+.top text{
+  display: block;
+  text-align: center;
+  line-height: 30px;
+}
+.aa{
+  margin-top: 10rpx;
+  display: flex;
+  justify-content: space-around;
+}
+.aa1{
+  height: 250rpx;
+}
+.aa1 text{
+  display: block;
+  text-align: center;
+}
+.aa1 view{
+  height: 200rpx;
+  width: 180rpx;
+  background-color: teal;
+}
+.sjtp{
+  width: 180rpx;
+  height: 200rpx;
+}
+.bb{
+  height: 250rpx;
+}
+.bb1{
+  width: 250rpx;
+  height: 200rpx;
+  position: relative;
+}
+.bb1 text{
+  margin-left: 20rpx;
+}
+.sjtp1{
+  width: 180rpx;
+  height: 200rpx;
+  margin: 10rpx 0 0 35rpx;
+}
+.kkk{
+  width: 180rpx;
+  height: 200rpx;
+  border: 1px solid #000000;
+  position: absolute;
+  top: 165px;
+  left: 140px;
+}

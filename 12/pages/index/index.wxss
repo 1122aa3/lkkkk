@@ -1,0 +1,151 @@
+/**index.wxss**/
+.userinfo {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #aaa;
+}
+
+.userinfo-avatar {
+  overflow: hidden;
+  width: 128rpx;
+  height: 128rpx;
+  margin: 20rpx;
+  border-radius: 50%;
+}
+
+.usermotto {
+  margin-top: 200px;
+}
+.lbtp{
+  width: 100%;
+  height: 300rpx;
+}
+.lb{
+  height: 300rpx;
+}
+.kk{
+  height: 200rpx;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20rpx;
+}
+.kk view text{
+  display: block;
+  width: 150rpx;
+  text-align: center;
+  font-size: 15px;
+}
+.xstp{
+  width: 150rpx;
+  height: 150rpx;
+}
+.kk view view:nth-child(1){
+  width: 150rpx;
+  height: 150rpx;
+}
+.kk view view:nth-child(2){
+  width: 150rpx;
+  height: 150rpx;
+}
+.kk view view:nth-child(3){
+  width: 150rpx;
+  height: 150rpx;
+}
+.kk view view:nth-child(4){
+  width: 150rpx;
+  height: 150rpx;
+}
+.kk1{
+  height: 200rpx;
+  display: flex;
+  justify-content: space-around;
+}
+.kk1 view text{
+  display: block;
+  width: 150rpx;
+  text-align: center;
+  font-size: 15px;
+}
+.kk1 view view:nth-child(1){
+  width: 150rpx;
+  height: 150rpx;
+  background-color: lightsalmon;
+}
+.kk1 view view:nth-child(2){
+  width: 150rpx;
+  height: 150rpx;
+  background-color: lightsalmon;
+}
+.kk1 view view:nth-child(3){
+  width: 150rpx;
+  height: 150rpx;
+  background-color: lightsalmon;
+}
+.kk1 view view:nth-child(4){
+  width: 150rpx;
+  height: 150rpx;
+  background-color: lightsalmon;
+}
+.gd{
+  height: 30px;
+  position: relative;
+}
+.gd text{
+  position: absolute;
+  top: 5px;
+  right: 30px;
+}
+.xsj{
+  border: 7px solid #000000;
+  border-color: transparent transparent transparent #000000;
+  position: absolute;
+  top: 9px;
+  right: 5px;
+}
+.sb{
+  margin-top: 10px;
+  height: 110px;
+  position: relative;
+}
+.sbtp{
+  width: 60px;
+  height: 80px;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+.sbbt{
+  position: absolute;
+  top: 20px;
+  left: 90px;
+  font-weight: 600;
+}
+.sbwz{
+  position: absolute;
+  top: 80px;
+  left: 90px;
+  color: #aaa;
+}
+.sblx{
+  position: absolute;
+  top: 45px;
+  left: 90px;
+  display: block;
+  width: 50px;
+  height: 25px;
+  border: 1px solid #000000;
+  line-height: 25px;
+  text-align: center;
+}
+.sbzz{
+  position: absolute;
+  top: 45px;
+  left: 150px;
+  display: block;
+  width: 100px;
+  height: 25px;
+  border: 1px solid #000000;
+  line-height: 25px;
+  text-align: center;
+}

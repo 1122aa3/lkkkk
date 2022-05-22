@@ -1,0 +1,11 @@
+<!--pages/gg/gg.wxml-->
+<view class="top"><text>书架</text></view>
+<view class="aa">
+<view class="aa1"><view><image src="/pages/img/sj1.jpg" class="sjtp"></image></view><text>万相之王</text></view>
+<view class="aa1"><view><image src="/pages/img/sj2.jpg" class="sjtp"></image></view><text>剑道第一仙</text></view>
+<view class="aa1"><view><image src="/pages/img/sj4.jpg" class="sjtp"></image></view><text>宇宙职业选手</text></view>
+</view>
+<view class="bb">
+<view class="bb1"><image src="/pages/img/sj3.jpg" class="sjtp1"></image><text>校花的贴身高手</text></view>
+<view class="kkk"><image src="/pages/img/sjsj.jpg" class="sjtp"></image><text>待加入...</text></view>
+</view>
